@@ -4,7 +4,7 @@
 
 A remake of my first project, Minecraft Old-School, now on Eaglercraft Beta 1.7.3!
 
-Minecraft Old-School is an Extension Mod of Eaglercraft 1.7.3 that adds in some new features, bringing back removed ones, and porting some from later versions, all while keeping the Beta-like feel you know & love. It's inspired by mods like Better Than Adventure, Not-So-Seecret Saturday, and more!
+Minecraft Old-School DX is an Extension Mod of Eaglercraft 1.7.3 that adds in some new features, bringing back removed ones, and porting some from later versions, all while keeping the Beta-like feel you know & love. It's inspired by mods like Better Than Adventure, Not-So-Seecret Saturday, and more!
 
 ### Warning! This project is not Chromebook-friendly!
 
@@ -55,7 +55,7 @@ Play [Mobile Port](https://saiyangonzalez01.github.io/Minecraft-Old-School-DX/mo
 
 ### Contributers
 
-- SaiyanGonzalez01 ~ Owner & Creator Of Old-School
+- SaiyanGonzalez01 ~ Owner & Creator Of Old-School DX
 - [chicken-nugget1104](https://github.com/chicken-nugget1104) ~ Project Contributor
 - [PeytonPlayz595](https://github.com/PeytonPlayz595) ~ Original Beta 1.7.3 Creator 
 ### Special Thanks
