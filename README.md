@@ -1,6 +1,5 @@
 
-## ![Minecraft Old-School Official Title Rev2](https://github.com/user-attachments/assets/abcf7c81-c3f3-4120-9855-b0a66834703c)
-
+## <img width="2006" height="569" alt="Minecraft Old-School DX Official Logo" src="https://github.com/user-attachments/assets/be6a3505-9536-48c1-8617-1d53e6430878" />
 
 A remake of my first project, Minecraft Old-School, now on Eaglercraft Beta 1.7.3!
 
