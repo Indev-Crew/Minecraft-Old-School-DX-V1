@@ -13,7 +13,7 @@ However day by day it is slowly becoming more Chromebook-friendly!
 
 ### Compiling
 
-As of commit [1c96970](https://github.com/SaiyanGonzalez01/Minecraft-Old-School-ReDefault/commit/1c9697069fce6a5390d4a87685912464bd98d7e7) compileEPK.bat now also compiles the javascript! Here are the steps:
+As of commit [1c96970](https://github.com/SaiyanGonzalez01/Minecraft-Old-School-DX/commit/1c9697069fce6a5390d4a87685912464bd98d7e7) compileEPK.bat now also compiles the javascript! Here are the steps:
 
 (Either Launch Codespaces or do it on Windows first)
 
@@ -48,9 +48,9 @@ As of commit [1c96970](https://github.com/SaiyanGonzalez01/Minecraft-Old-School-
 
 You heard right! You can actually PLAY the project now unlike the original Old-School.
 
-Play [Recent Update](https://saiyangonzalez01.github.io/Minecraft-Old-School/web)
+Play [Recent Update](https://saiyangonzalez01.github.io/Minecraft-Old-School-DX/web)
 
-Play [Mobile Port](https://saiyangonzalez01.github.io/Minecraft-Old-School/mobile) (WIP!)
+Play [Mobile Port](https://saiyangonzalez01.github.io/Minecraft-Old-School-DX/mobile) (WIP!)
 
 
 ### Contributers
